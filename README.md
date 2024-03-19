@@ -10,7 +10,6 @@ OpenAI사의 GPT 모델을 활용한 챗봇 개발하기
     6. vscode "git clone repository"로 5번에서 생성한 프로젝트 내려받기
     7. 가상환경 생성(venv) : 가상환경 구축 참조
     8. vscode에서 python interpreter 설정
-    9. 
 
 ### Python 가상환경 구축
 1. venv
